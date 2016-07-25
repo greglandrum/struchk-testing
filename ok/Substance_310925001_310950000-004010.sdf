@@ -1,0 +1,76 @@
+310929011
+  -OEChem-07211613022D
+
+ 13 13  0     1  0  0  0  0  0999 V2000
+    1.0717    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  4  3  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+310929011
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+11752
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+BD328148
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+(S)-2-Amino-N-methyl-3-phenylpropanamide
+35373-92-3
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+35373-92-3
+
+> <PUBCHEM_XREF_EXT_ID>
+BD328148
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+http://www.bidepharmatech.com/en/index.html
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+http://www.bidepharmatech.com/en/goodsview_goodscode_BD328148.html
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+10176363  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+3
+
+> <PUBCHEM_BONDANNOTATIONS>
+4  3  5
+
+$$$$

@@ -1,0 +1,71 @@
+310936884
+  -OEChem-07211613022D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+    0.7144    1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+310936884
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+4488
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+SCHEMBL16114581
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+InChI=1S/C7H5F2NO2/c8-7(9)12-6-1-2-10-3-5(6)4-11/h1-4,7H
+InChIKey=SHLJWTJPISZMEU-UHFFFAOYSA-N
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+SCHEMBL16114581
+
+> <PUBCHEM_XREF_EXT_ID>
+SCHEMBL16114581
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://www.surechembl.org/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.surechembl.org/chemical/SCHEMBL16114581
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+117604773  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+3
+
+$$$$

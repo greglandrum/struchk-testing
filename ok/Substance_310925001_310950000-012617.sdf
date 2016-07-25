@@ -1,0 +1,73 @@
+310937618
+  -OEChem-07211613022D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+    2.8609   -0.7331    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0179    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4305    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2517   -0.7331    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8609   -3.5762    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6450   -2.8609    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6450   -1.4483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4497   -1.4483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4497   -2.8609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8967   -2.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2159   -2.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4291   -0.7152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6834   -3.5762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+310937618
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+4488
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+SCHEMBL16115400
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+InChI=1S/C7H6F2INO2/c1-12-6-2-4(10)5(3-11-6)13-7(8)9/h2-3,7H,1H3
+InChIKey=NMUQCBMGPYJPGK-UHFFFAOYSA-N
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+SCHEMBL16115400
+
+> <PUBCHEM_XREF_EXT_ID>
+SCHEMBL16115400
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://www.surechembl.org/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.surechembl.org/chemical/SCHEMBL16115400
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+117605317  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+3
+
+$$$$

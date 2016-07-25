@@ -1,0 +1,82 @@
+310941385
+  -OEChem-07211613022D
+
+ 16 16  0     1  0  0  0  0  0999 V2000
+    0.0339    0.8137    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8144    0.8137    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8144    0.0135    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2176   -1.2207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1633    1.2207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3766    0.0135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7527   -0.3933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4445    0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    0.0203   -0.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6578   -0.3933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1633   -0.4069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0683   -0.3933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3766    0.8274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4716    0.8274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8007    0.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0955    1.2207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  8  7  1  1  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+310941385
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+4488
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+SCHEMBL16119345
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+InChI=1S/C9H16N2O5/c12-6-7(9(14)15)10-8(13)5-11-1-3-16-4-2-11/h7,12H,1-6H2,(H,10,13)(H,14,15)/t7-/m0/s1
+InChIKey=RCHATLGGLKJXKQ-ZETCQYMHSA-N
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+SCHEMBL16119345
+
+> <PUBCHEM_XREF_EXT_ID>
+SCHEMBL16119345
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://www.surechembl.org/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.surechembl.org/chemical/SCHEMBL16119345
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+117608224  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+3
+
+> <PUBCHEM_BONDANNOTATIONS>
+8  7  5
+
+$$$$
