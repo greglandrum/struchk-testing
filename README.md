@@ -32,3 +32,5 @@ currently flagged molecules are as follows:
 note, "ok" molecules may still have atoms stripped.
 
 see struchk.log for more specific details of the input compounds.
+
+The `rdkit_rejects` directory contains molecules that fail the RDKit's standard sanitization checks.
