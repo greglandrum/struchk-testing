@@ -1,3 +1,4 @@
+from __future__ import print_function
 from rdkit import RDConfig
 import os
 from rdkit import DataStructs, Chem
@@ -48,16 +49,16 @@ def label(err):
 for root, dirs, files in os.walk("substance"):
     for f in files:
         if ".sdf" in f:
-            print "Examining file", f
+            print("Examining file", f)
             text = open(os.path.join(root, f)).read()
             mols = text.split("$$$$\n")
-            print "number of molecules", len(mols)
+            print("number of molecules", len(mols))
             del text
             for i,m in enumerate(mols):
                 (err, fixed_mol) = pyAvalonTools.CheckMoleculeString(m, False)
                 #print m
                 mol = Chem.MolFromMolBlock(m)
-                print "Smiles:", Chem.MolToSmiles(mol)
+                #print("Smiles:", Chem.MolToSmiles(mol))
                 if not mol:
                     continue
                 
@@ -65,11 +66,11 @@ for root, dirs, files in os.walk("substance"):
                 
                 labels = [l.lower() for l in checker.StructureFlagsToString(err2).split(",") if l]
                 if sorted(labels) == sorted(label(err)):
-                    print "...ok"
+                    print("...ok")
                     continue
                     
                                             
-                print "...Failed" , "expected:", sorted(label(err)), "got:", sorted(labels)
+                print("...Failed" , "expected:", sorted(label(err)), "got:", sorted(labels))
                 expected = repr(sorted(label(err)))
                 got = repr(labels)
                 m += "> <EXPECTED>\n%s\n\n> <GOT>\n%s\n\n$$$$\n"%(expected, got)

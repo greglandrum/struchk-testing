@@ -1,3 +1,4 @@
+from __future__ import print_function
 from rdkit import RDConfig
 import os
 from rdkit import DataStructs, Chem
@@ -31,10 +32,10 @@ def label(err):
 for root, dirs, files in os.walk("substance"):
     for f in files:
         if ".sdf" in f:
-            print f
+            print(f)
             text = open(os.path.join(root, f)).read()
             mols = text.split("$$$$\n")
-            print "number of molecules", len(mols)
+            print("number of molecules", len(mols))
             del text
             for i,m in enumerate(mols):
                 (err, fixed_mol) = pyAvalonTools.CheckMoleculeString(m, False)
